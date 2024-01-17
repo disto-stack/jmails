@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/disto-stack/j-mails-indexer
+[submodule "infra"]
+	path = infra
+	url = git@github.com:disto-stack/jmails-infrastructure.git
